@@ -1,7 +1,7 @@
 # Hi, I'm Piotr!
 
 ## 🎓 Computer Science Student
-I am a second-year computer science student at [The Faculty of Mathematics, Informatics and Mechanics](https://www.mimuw.edu.pl/en) at The University of Warsaw.
+I am a second-year computer science student at the [Faculty of Mathematics, Informatics and Mechanics](https://www.mimuw.edu.pl/en) at the University of Warsaw.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-33cccc?logo=linux&logoColor=white)
