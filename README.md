@@ -19,6 +19,9 @@ I am a third-year computer science student at the [Faculty of Mathematics, Infor
 ![](https://img.shields.io/badge/Tools-SQL_Plus-cc00ff?logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Wolfram_Mathematica-cc00ff?logo=wolfram-mathematica&logoColor=white)
 </br>
+![](https://img.shields.io/badge/Framework-Django-red?logo=django&logoColor=white)
+![](https://img.shields.io/badge/Framework-Tailwind_CSS-red?logo=tailwind-css&logoColor=white)
+</br>
 ![](https://img.shields.io/badge/Shell-Bash-informational?&logo=gnu-bash&logoColor=white&color=yellow)
 
 ## 🎳 Hobbies
