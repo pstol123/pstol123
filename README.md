@@ -11,6 +11,8 @@ I am a third-year computer science student at the [Faculty of Mathematics, Infor
 ![](https://img.shields.io/badge/Code-JAVA-blue?logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Code-PHP-blue?logo=PHP&logoColor=white)
+![](https://img.shields.io/badge/Code-C%23-blue?logo=C&logoColor=white)
+![](https://img.shields.io/badge/Code-Rust-blue?logo=rust&logoColor=white)
 </br>
 ![](https://img.shields.io/badge/Editor-InteliJ_IDEA-ff9933?logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-ff9933?logo=vsc&logoColor=white)
@@ -23,7 +25,8 @@ I am a third-year computer science student at the [Faculty of Mathematics, Infor
 ![](https://img.shields.io/badge/Framework-Tailwind_CSS-red?logo=tailwind-css&logoColor=white)
 </br>
 ![](https://img.shields.io/badge/Shell-Bash-informational?&logo=gnu-bash&logoColor=white&color=yellow)
-
+</br>
+![](https://img.shields.io/badge/Engine-Unity-informational?logo=unity&logoColor=white&color=black)
 ## 🎳 Hobbies
 🚲 Cycling </br>
 ⛰️ Mountain Hiking </br>
